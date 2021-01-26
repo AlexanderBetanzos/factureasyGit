@@ -1,0 +1,6 @@
+framework module Pods_facturaeasy_facturaeasyUITests {
+  umbrella header "Pods-facturaeasy-facturaeasyUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
